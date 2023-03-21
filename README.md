@@ -1,12 +1,10 @@
 # Pythonista
-
-Here are some fun stuff i did on the Pythonista App on Iphone
+Fun projects i wrote on pythonista app on Iphone
 
 ## Tic-Tac-Toe
 
-Here is my version of an unbeatable Tic-Tac-Toe player. Run it on Pythonista to play against python.
-
-Possible outcomes : 
+Here is my version of an unbeatable Tic-Tac-Toe player
+\nPossible outcomes : 
 - Draw
 - You lose
 
