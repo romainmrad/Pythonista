@@ -3,8 +3,8 @@ Fun projects i wrote on pythonista app on Iphone
 
 ## Tic-Tac-Toe
 
-Here is my version of an unbeatable Tic-Tac-Toe player
-\nPossible outcomes : 
+Here is my version of an unbeatable Tic-Tac-Toe player\
+Possible outcomes : 
 - Draw
 - You lose
 
